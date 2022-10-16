@@ -1,0 +1,100 @@
+* {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.nav-bar {
+    margin-top: 0rem;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-radius: 5rem;
+    border-color: black;
+    display: flex;
+}
+
+.main-comtainer {
+    /* position: absolute; */
+    /* left: 35rem; */
+    /* margin-left: 3rem; */
+    margin-top: 13rem;
+    width: auto;
+}
+
+.box {
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    margin-left: 1rem;
+    color: whitesmoke;
+    text-align: center;
+    /* background-color: blueviolet; */
+}
+
+.bgText {
+    border-radius: 15px;
+    /* margin: 50px; */
+    padding: 20px 2px 20px 2px;
+    background-color: cadetblue;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    margin-left: 50px;
+}
+
+
+.btn {
+    /* margin-top: 10rem; */
+    border-radius: 10px;
+    padding: 15px 60px 15px 60px;
+    color: blueviolet;
+    font-size: x-large;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.btn:hover {
+    color: whitesmoke;
+    background-color: black;
+}
+
+
+.logo {
+    margin-left: 15rem;
+    font-size: 1.5rem;
+    /* font-family: Verdana; */
+    color: blueviolet;
+}
+
+.footer {
+    /* position: absolute; */
+    /* top: 25rem; */
+    /* left: 46rem; */
+    font-size: small;
+    /* font-family: Verdana; */
+    margin-top: 240px;
+    text-align: center;
+}
+
+body {
+    background-color: azure;
+}
+
+h2 {
+    color: cornsilk;
+    /* font-family: Verdana; */
+}
+
+a {
+    border-radius: 15px;
+    background-color: whitesmoke;
+    font-size: x-large;
+    margin-top: 10px;
+    padding: 10px 70px 10px 70px;
+    text-decoration: none;
+    /* font-family: 'Trebuchet MS'; */
+}
+
+a:hover {
+    color: whitesmoke;
+    background-color: cadetblue;
+}

@@ -1,0 +1,14 @@
+body {
+    /* background-color: black; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    align-items: unset;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+}
